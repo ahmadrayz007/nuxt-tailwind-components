@@ -59,6 +59,6 @@ The Components are maintain by Bangoding
 ```
 
 ## Support
-Support me!
+If you enjoy my content and would like to support my work, consider buying me a coffee! Your support helps me continue to create and share tips on CSS, Tailwind, Vue.js, and Nuxt.js.
 
-![Static Badge](https://img.shields.io/badge/Buy%20me%20a%20Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)
+[![Static Badge](https://img.shields.io/badge/Buy%20me%20a%20Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/bangoding)
