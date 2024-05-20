@@ -57,6 +57,7 @@ The Components are maintain by Bangoding
 }
 </style>
 ```
+I got it from this [Codepen](https://codepen.io/wabeshew/pen/XdbBdM) and tranform it into Tailwind and NuxtJs
 
 ## Support
 If you enjoy my content and would like to support my work, consider buying me a coffee! Your support helps me continue to create and share tips on CSS, Tailwind, Vue.js, and Nuxt.js.
